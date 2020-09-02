@@ -1,4 +1,4 @@
-module github.com/gin-gonic/gin
+module github.com/fish1023/gin-1
 
 go 1.13
 
